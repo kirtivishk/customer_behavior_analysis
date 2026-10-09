@@ -10,3 +10,12 @@ The company aims to identify purchasing trends across customer demographics and 
 **Key Business Question:**
 
 How can the company leverage consumer shopping data to identify trends, improve customer engagement, and optimize marketing and product strategies?
+
+## Project Objectives
+
+- Analyze customer purchasing behavior and identify shopping patterns.
+- Segment customers based on their shopping characteristics.
+- Examine the relationship between discounts, reviews, and purchasing decisions.
+- Analyze product categories and customer spending patterns.
+- Evaluate subscription behavior and customer loyalty.
+- Generate actionable insights to support data-driven business decisions.
