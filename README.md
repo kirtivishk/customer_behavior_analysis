@@ -40,6 +40,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 • Customer Loyalty: Examined subscription patterns and customer preferences to identify opportunities for improving engagement and retention.
 
-## 👨‍💻 About the Author
-Hey, I’m Kirti Vishwakarma an aspiring a Data Analyst
-💡 Thanks for checking out the project! 
+## 👩‍💻 About the Author
+Hi, I'm Kirti Vishwakarma, an aspiring Data Analyst passionate about turning raw data into meaningful insights using Python, SQL, and Power BI.
+
+Thank you for checking out my project!
