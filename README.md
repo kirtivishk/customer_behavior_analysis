@@ -22,11 +22,11 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
-## 🛠️ Tools & Technologies
-⚬ Python: Data cleaning, preprocessing, and exploratory data analysis (EDA)
-⚬ Pandas: Data manipulation and transformation
-⚬ PostgreSQL: SQL queries and business analysis
-⚬ Power BI: Interactive dashboard and data visualization
-⚬ Gamma: Project presentation and business storytelling
+🛠️ Tools & Technologies
+Python: Data cleaning, preprocessing, and exploratory data analysis (EDA)
+Pandas: Data manipulation and transformation
+PostgreSQL: SQL queries and business analysis
+Power BI: Interactive dashboard and data visualization
+Gamma: Project presentation and business storytelling
 
 
