@@ -31,6 +31,8 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 - **Gamma:** Project presentation and business storytelling
 
 ## 📊 Power BI Dashboard
+The interactive Customer Shopping Behavior Dashboard provides insights into customer demographics, product categories, purchasing patterns, discounts, customer ratings, payment preferences, and subscription behavior.
+
 ![Customer Behavior Dashboard](dashboard.png)
 
 ## 💡 Key Business Insights
