@@ -33,5 +33,9 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ## 📊 Power BI Dashboard
 ![Customer Behavior Dashboard](dashboard.png)
 
+## 💡 Key Business Insights
+Customer Behavior: Analyzed purchasing patterns across customer demographics and product categories.
+Purchase Drivers: Explored the relationship between discounts, product ratings, seasons, and purchasing decisions.
+Customer Loyalty: Examined subscription patterns and customer preferences to identify opportunities for improving engagement and retention
 
 
