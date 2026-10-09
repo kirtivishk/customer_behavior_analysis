@@ -30,4 +30,8 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 - **Power BI:** Interactive dashboard and data visualization
 - **Gamma:** Project presentation and business storytelling
 
+## 📊 Power BI Dashboard
+![Customer Behavior Dashboard](dashboard.png)
+
+
 
