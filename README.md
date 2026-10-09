@@ -11,7 +11,7 @@ The company aims to identify purchasing trends across customer demographics and 
 
 How can the company leverage consumer shopping data to identify trends, improve customer engagement, and optimize marketing and product strategies?
 
-📌 Project Overview
+##📌 Project Overview
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
 
 ✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
